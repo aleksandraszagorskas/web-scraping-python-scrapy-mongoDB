@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0cb4fd56-d08b-4769-9fee-add230a9a5c7" name="Default Changelist" comment="">
+    <list default="true" id="0cb4fd56-d08b-4769-9fee-add230a9a5c7" name="Default Changelist" comment="spider refactor">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stack/stack/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/stack/stack/items.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stack/stack/spiders/stack_spider.py" beforeDir="false" afterPath="$PROJECT_DIR$/stack/stack/spiders/stack_spider.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +24,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/venv/Lib/site-packages/scrapy/spiders/__init__.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectId" id="1lCYB1qQQe96wa6ATDgXoNDcxkf" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -82,7 +85,7 @@
       <workItem from="1607115107721" duration="1868000" />
       <workItem from="1607117421198" duration="602000" />
       <workItem from="1607118035881" duration="1299000" />
-      <workItem from="1607261812840" duration="10308000" />
+      <workItem from="1607261812840" duration="13641000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1607102845189</created>
@@ -105,7 +108,28 @@
       <option name="project" value="LOCAL" />
       <updated>1607119238844</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="stackoverflow spider">
+      <created>1607272166014</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1607272166014</updated>
+    </task>
+    <task id="LOCAL-00005" summary="stackoverflow spider">
+      <created>1607272175187</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1607272175187</updated>
+    </task>
+    <task id="LOCAL-00006" summary="spider refactor">
+      <created>1607272406016</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1607272406016</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,7 +151,9 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="workspace" />
     <MESSAGE value="installed required packages" />
-    <option name="LAST_COMMIT_MESSAGE" value="installed required packages" />
+    <MESSAGE value="stackoverflow spider" />
+    <MESSAGE value="spider refactor" />
+    <option name="LAST_COMMIT_MESSAGE" value="spider refactor" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -1,7 +1,7 @@
 from scrapy import Spider
 from scrapy.selector import Selector
 
-from stack.stack.items import StackItem
+from stack.items import StackItem
 
 
 class StackSpider(Spider):
