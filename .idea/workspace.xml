@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0cb4fd56-d08b-4769-9fee-add230a9a5c7" name="Default Changelist" comment="spider refactor">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stack/stack/spiders/stack_spider.py" beforeDir="false" afterPath="$PROJECT_DIR$/stack/stack/spiders/stack_spider.py" afterDir="false" />
-    </list>
+    <list default="true" id="0cb4fd56-d08b-4769-9fee-add230a9a5c7" name="Default Changelist" comment="stackoverflow first crawl" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,7 +82,7 @@
       <workItem from="1607115107721" duration="1868000" />
       <workItem from="1607117421198" duration="602000" />
       <workItem from="1607118035881" duration="1299000" />
-      <workItem from="1607261812840" duration="13641000" />
+      <workItem from="1607261812840" duration="14091000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1607102845189</created>
@@ -129,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607272406016</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="stackoverflow first crawl">
+      <created>1607282727654</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1607282727654</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,7 +157,8 @@
     <MESSAGE value="installed required packages" />
     <MESSAGE value="stackoverflow spider" />
     <MESSAGE value="spider refactor" />
-    <option name="LAST_COMMIT_MESSAGE" value="spider refactor" />
+    <MESSAGE value="stackoverflow first crawl" />
+    <option name="LAST_COMMIT_MESSAGE" value="stackoverflow first crawl" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
